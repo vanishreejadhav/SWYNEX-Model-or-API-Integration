@@ -1,0 +1,7 @@
+﻿Command:
+    python summarizer.py --file example_input.txt
+
+Actual output:
+
+----- SUMMARY -----
+Artificial intelligence (AI) is rapidly transforming industries across the globe. In healthcare, AI-powered diagnostic tools are helping doctors detect diseases earlier and with greater accuracy. In the financial sector, AI algorithms are used for fraud detection, algorithmic trading and credit risk assessment.
